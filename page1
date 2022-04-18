@@ -1,0 +1,25 @@
+<DOCTYPE! html>
+<html> 
+<meta character = "utf8"> 
+  <head>
+    <title> CSC 106 portfolio </title>
+    <link rel="stylesheet" type="text/css" href="https://8troll8.github.io/style.css">     
+  <center> </head> </center>
+  
+         <body style= background-color:yellow> <center>
+         <img src="myBanner (1).jpg">
+           <h1> <a href="https://www.khanacademy.org/computer-programming/final_project_trovato_rascoe/4695341822590976"> Final project </a> </h1>
+         <p style = font-size:20px> In this game, you play as a hero that has the main objective of rescuing the non corrupt bitmojis that are being held captive by the bitlord. Upon clicking start, you will be teleported directly into the game where your very first enemy will be charging at you. In order to defend yourself, you must use the arrow keys to move around and the "alt" button to pull out your sword. Afterwards, the next level will be a bit more difficult due to the extra mobs that will be introduced. Finally, once the mobs in the 2nd level are defeated, you will be face to face with the bitlord who has an incredible achilles heel. </p> 
+          <p> <script src="https://www.khanacademy.org/computer-programming/final_project_trovato_rascoe/4695341822590976/embed.js?editor=yes&buttons=yes&author=yes&embed=yes"></script> </font> </p> 
+           <h1> Here's some gameplay!: </h1> </center> 
+           
+       <p> <center>  <iframe src="https://drive.google.com/file/d/1Yimk6Sta5-MYLHXX90pUl03CIOqb73g5/preview" width="640" height="480"></iframe> </p> </center>
+        
+        <p> <a href="https://8troll8.github.io/javascripts.html"> <img src="JavaButton (1).jpg"> </a>
+            <a href="http://8troll8.github.io/aboutme.html"> <img src="Aboutmebutton.jpg"> </a> 
+            <a href="https://8troll8.github.io/index.html"> <img src="homeButton.jpg"> </a> </p>
+         
+        
+         </body> 
+   
+  </html>
